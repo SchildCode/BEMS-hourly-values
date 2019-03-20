@@ -19,7 +19,7 @@ Program to post-process and visualize data from BEMS (Building Energy Management
   - If still no splash-screen appears, then you might be able to fix it by menu option **File > Options > Trust Center > Trust Center Settings > Macro Settings > Disable all macros with notification**, which is a suitable level of security.
   
 ### License & warranty
-- Distributed under the GLP v3 lisence (https://www.gnu.org/licenses/gpl-3.0.en.html). Users of this software shall attribute its use in their reports/publications with an appropriate autohor citation and URL to this site.
+- Distributed under the GLP v3 lisence (https://www.gnu.org/licenses/gpl-3.0.en.html). Please acknowledge/attribute use of this software in your report/publication with an appropriate author citation and URL to this site.
 - Provided without warranty of any kind.
 
 ### Author & copyright
