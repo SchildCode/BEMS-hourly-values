@@ -6,7 +6,7 @@ Program to post-process and visualize data from BEMS (Building Energy Management
 - The output synchronizes the time-stamps of input parameters, and then calculates hourly statistics such as mean, median or number of observations per hour.
 - Can handle any logger interval, up to one hour. The logger interval need not be constant. BEMS systems typically have a logger interval of 5 or 10 minutes, sometimes only hourly.
 - Can correct for Daylight Saving Time (DST) if you wish. Output is always in standard time (e.g. UTC+1 in Europe), but with an additional column for DST hour of day, so that you can correctly assess time schedules.
-- Can calculate hourly energy use (e.g. average Watts during hour) from cumulative logged data (Wh electricity meter).
+- Can calculate hourly energy use (e.g. average Watts during hour) from cumulative logged data (smart electricity meters).
 - Can calculate weighted averages or sums of input parameters, e.g. area-weighted temperature in a building. Input the weights (e.g. zone area) for each parameter in row 1 above the parameter's date/time column.
 - Carpet plot to visualize calculated hourly output.
 - Includes rudimentary error-checking, such as wrong date-format, or dates/values pasted into the wrong column.
